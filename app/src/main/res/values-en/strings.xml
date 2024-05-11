@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FlowerFairy</string>
+    <string name="list_kosong">Empty data</string>
+    <string name="x_diklik">%1$s clicked</string>
+    <string name="tambah_bunga">Add flower</string>
+    <string name="edit_bunga">Edit flower</string>
+    <string name="nama">Name</string>
+    <string name="harga">Price</string>
+    <string name="ada">Available</string>
+    <string name="kosong">Unavailable</string>
+    <string name="kembali">Back</string>
+    <string name="simpan">Save</string>
+    <string name="invalid">Name, price and stock cannot be empty.</string>
+    <string name="lainnya">Other options</string>
+    <string name="hapus">Delete</string>
+    <string name="pesan_hapus">Delete this flower?</string>
+    <string name="tombol_hapus">Delete</string>
+    <string name="tombol_batal">Cancel</string>
+    <string name="list">List view</string>
+    <string name="grid">Grid view</string>
+    <string name="tentang_bunga">About application</string>
+    <string name="makna">“FlowerFairy” is an online flower shop application that makes it easy
+        for users to choose and calculate the prices of various types of flowers sold
+        in the form of hand bouquets or table bouquets quickly and easily.
+        \n\nThis application was created for the Assessment 2 Mobpro 1 class.
+        \n\nCopyright © 2024 Ananda Hawa Oktavia.
+        \nAll rights reserved</string>
+</resources>
