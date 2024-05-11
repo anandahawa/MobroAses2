@@ -62,7 +62,7 @@ fun DetailScreen(navController: NavHostController, id: Long? = null) {
 
     var nama by remember { mutableStateOf("") }
     var harga by remember { mutableStateOf("") }
-    var stok by remember { mutableStateOf("Ada") }
+    var stok by remember { mutableStateOf("Unavailable") }
 
     var showDialog by remember { mutableStateOf(false) }
 
