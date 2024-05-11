@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MobproAses2</string>
+    <string name="list_kosong">Belum ada data</string>
+    <string name="x_diklik">%1$s diklik!</string>
+    <string name="tambah_bunga">Tambah bunga</string>
+    <string name="edit_bunga">Edit bunga</string>
+    <string name="nama">Nama</string>
+    <string name="harga">Harga</string>
+    <string name="ada">Ada</string>
+    <string name="kosong">Tidak ada</string>
+    <string name="kembali">Kembali</string>
+    <string name="simpan">Simpan</string>
+    <string name="invalid">Nama, harga, dan stok tidak boleh kosong.</string>
+    <string name="lainnya">Opsi Lainnya</string>
+    <string name="hapus">Hapus</string>
+    <string name="pesan_hapus">Hapus data bunga ini?</string>
+    <string name="tombol_hapus">Hapus</string>
+    <string name="tombol_batal">Batal</string>
+    <string name="list">Tampilan list</string>
+    <string name="grid">Tampilan grid</string>
+    <string name="tentang_bunga">Tentang aplikasi</string>
+    <string name="makna">“FlowerFairy” adalah aplikasi toko bunga online yang memudahkan pengguna
+        untuk memilih dan menghitung harga dari berbagai jenis bunga yang dijual dalam
+        bentuk buket tangan maupun buket meja dengan cepat dan mudah.
+        \n\nAplikasi ini dibuat untuk kelas Assessment 2 Mobpro 1.
+        \n\nCopyright © 2024 Ananda Hawa Oktavia.\nAll rights reserved
+    </string>
+</resources>
